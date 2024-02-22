@@ -10,13 +10,13 @@
 
 _Inspired by `@diced`_
 
-### Time
+### Coding Activity (Time)
 
-<figure><embed src="https://wakatime.com/share/@GregSweats/f5efdc68-2fa8-435f-b194-9e6294ae4e61.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@GregSweats/3e9a92c7-c185-4f55-803f-68a9b7718dc3.png" /></a>
 
 ### Languages
 
-<figure><embed src="https://wakatime.com/share/@GregSweats/e07e08a8-4e41-4f2f-a4e0-e3f038f60a63.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@GregSweats/18488bb6-6c63-4c8f-bdee-3b8c141f2ad4.png" /></a>
 
 ## Metrics
 
